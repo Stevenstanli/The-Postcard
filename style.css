@@ -1,0 +1,25 @@
+#contenedor{
+        background-color:beige;
+        border:2px solid black;
+        justify-content: center;
+        align-items: center;
+}
+#izquierda{
+        height:50%;
+        background-color:beige;
+        float:left;
+        width:50%;
+        justify-content: left;
+}
+#derecha{
+        height:50%;
+        background-color:beige;
+        float:right;
+        width:50%;
+        justify-content: right;
+}
+#pie{
+        height:20%;
+        background-color:beige;
+        justify-content: center;
+}
